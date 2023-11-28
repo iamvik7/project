@@ -3,6 +3,4 @@
 
 ## Checklist
 - [ ] Checkout code
-- [ ] Set up Node.js
-- [ ] Install dependencies
-- [ ] Run tests
+
