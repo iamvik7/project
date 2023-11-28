@@ -1,5 +1,5 @@
-let a = 1345;
-let b = 10790;
+let a = 132345;
+let b = 1090;
 
 function add(a , b) {
   let c = a + b;
